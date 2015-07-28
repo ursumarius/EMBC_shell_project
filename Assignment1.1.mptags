@@ -1,0 +1,145 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+Acknowledged	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	135;"	l	line:135
+Acknowledged	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	35;"	l	line:35
+BUTTON1::(PORTA&0x40)	C:\Users\M\Desktop\assignment1_3\lib\src\button.c	4;"	d	line:4	file:
+BUTTON2::(PORTA&0x80)	C:\Users\M\Desktop\assignment1_3\lib\src\button.c	5;"	d	line:5	file:
+BUTTON_H	C:\Users\M\Desktop\assignment1_3\lib\inc\button.h	2;"	d	line:2
+DEBOUNCE_TIME::100	C:\Users\M\Desktop\assignment1_3\lib\src\button.c	6;"	d	line:6	file:
+DataB	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	38;"	l	line:38
+DataSz	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	134;"	l	line:134
+DataSz	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	34;"	l	line:34
+EEPROM_H	C:\Users\M\Desktop\assignment1_3\lib\inc\eeprom.h	20;"	d	line:20
+EEPROM_I2C_ADDRESS::0x50	C:\Users\M\Desktop\assignment1_3\lib\inc\eeprom.h	26;"	d	line:26
+EEPROM_I2C_BUS::I2C2	C:\Users\M\Desktop\assignment1_3\lib\inc\eeprom.h	25;"	d	line:25
+HighB	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	137;"	l	line:137
+I2C_CLOCK_FREQ::5e3	C:\Users\M\Desktop\assignment1_3\lib\inc\i2c.h	25;"	d	line:25
+I2C_H	C:\Users\M\Desktop\assignment1_3\lib\inc\i2c.h	20;"	d	line:20
+Index	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	133;"	l	line:133
+Index	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	33;"	l	line:33
+IntUart1Handler	C:\Users\M\Desktop\assignment1_3\lib\src\uart.c	38;"	f	line:38	signature:(void)
+IntUart2Handler	C:\Users\M\Desktop\assignment1_3\lib\src\uart.c	52;"	f	line:52	signature:(void)
+LowB	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	137;"	l	line:137
+OC1InterruptHandler	C:\Users\M\Desktop\assignment1_3\lib\src\oc.c	230;"	f	line:230	signature:( void )
+OC1callback	C:\Users\M\Desktop\assignment1_3\lib\inc\oc.h	80;"	t	line:80
+OC1callbackflag	C:\Users\M\Desktop\assignment1_3\lib\src\oc.c	28;"	v	line:28
+OC1callbackfp	C:\Users\M\Desktop\assignment1_3\lib\src\oc.c	27;"	v	line:27
+OC_H	C:\Users\M\Desktop\assignment1_3\lib\inc\oc.h	17;"	d	line:17
+PREV_BUTTON1	C:\Users\M\Desktop\assignment1_3\lib\src\button.c	8;"	v	line:8
+PREV_BUTTON2	C:\Users\M\Desktop\assignment1_3\lib\src\button.c	8;"	v	line:8
+PWM_H	C:\Users\M\Desktop\assignment1_3\lib\inc\pwm.h	17;"	d	line:17
+SERVO_H	C:\Users\M\Desktop\assignment1_3\lib\inc\servo.h	2;"	d	line:2
+SHELL_H	C:\Users\M\Desktop\assignment1_3\lib\inc\shell.h	2;"	d	line:2
+SlaveAddress	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	132;"	l	line:132
+SlaveAddress	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	32;"	l	line:32
+Success	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	136;"	l	line:136
+Success	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	36;"	l	line:36
+T2InterruptHandler	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	197;"	f	line:197	signature:( void )
+T2callback	C:\Users\M\Desktop\assignment1_3\lib\inc\timer.h	51;"	t	line:51
+T2callbackflag	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	29;"	v	line:29
+T2callbackfp	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	28;"	v	line:28
+TESTSERVO_H	C:\Users\M\Desktop\assignment1_3\inc\testservo.h	15;"	d	line:15
+TIMER_H	C:\Users\M\Desktop\assignment1_3\lib\inc\timer.h	16;"	d	line:16
+UART_BUFFSIZE::(8)	C:\Users\M\Desktop\assignment1_3\lib\inc\uart.h	20;"	d	line:20
+a	C:\Users\M\Desktop\assignment1_3\src\testservo.c	10;"	v	line:10
+actualClock	C:\Users\M\Desktop\assignment1_3\lib\src\i2c.c	24;"	l	line:24
+angle	C:\Users\M\Desktop\assignment1_3\src\testservo.c	10;"	v	line:10
+b	C:\Users\M\Desktop\assignment1_3\src\testservo.c	10;"	v	line:10
+buffer	C:\Users\M\Desktop\assignment1_3\lib\src\uart.c	26;"	v	line:26
+buffrdpos	C:\Users\M\Desktop\assignment1_3\lib\src\uart.c	28;"	v	line:28
+buffwrpos	C:\Users\M\Desktop\assignment1_3\lib\src\uart.c	27;"	v	line:27
+button_timer_init1	C:\Users\M\Desktop\assignment1_3\lib\src\button.c	9;"	f	line:9
+button_timer_init2	C:\Users\M\Desktop\assignment1_3\lib\src\button.c	15;"	f	line:15
+c1	C:\Users\M\Desktop\assignment1_3\lib\src\pwm.c	34;"	l	line:34
+c1	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	47;"	l	line:47
+c1	C:\Users\M\Desktop\assignment1_3\lib\src\uart.c	200;"	l	line:200
+command	C:\Users\M\Desktop\assignment1_3\src\testservo.c	13;"	v	line:13
+debouncebutton1	C:\Users\M\Desktop\assignment1_3\lib\inc\button.h	5;"	p	line:5	signature:()
+debouncebutton1	C:\Users\M\Desktop\assignment1_3\lib\src\button.c	22;"	f	line:22
+debouncebutton2	C:\Users\M\Desktop\assignment1_3\lib\inc\button.h	4;"	p	line:4	signature:()
+debouncebutton2	C:\Users\M\Desktop\assignment1_3\lib\src\button.c	42;"	f	line:42
+eeprom_init	C:\Users\M\Desktop\assignment1_3\lib\inc\eeprom.h	41;"	p	line:41	signature:(unsigned int fpb)
+eeprom_init	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	24;"	f	line:24	signature:(unsigned int fpb)
+eeprom_read	C:\Users\M\Desktop\assignment1_3\lib\inc\eeprom.h	68;"	p	line:68	signature:(unsigned short int address, unsigned short int *data)
+eeprom_read	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	129;"	f	line:129	signature:(unsigned short int address, unsigned short int *data)
+eeprom_write	C:\Users\M\Desktop\assignment1_3\lib\inc\eeprom.h	54;"	p	line:54	signature:(unsigned short int address, unsigned short int data)
+eeprom_write	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	29;"	f	line:29	signature:(unsigned short int address, unsigned short int data)
+factor	C:\Users\M\Desktop\assignment1_3\lib\src\oc.c	24;"	v	line:24
+freq	C:\Users\M\Desktop\assignment1_3\lib\src\servo.c	30;"	l	line:30
+getangle	C:\Users\M\Desktop\assignment1_3\src\testservo.c	15;"	v	line:15
+getmsg	C:\Users\M\Desktop\assignment1_3\src\testservo.c	17;"	v	line:17
+getprescalerx	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	176;"	f	line:176	signature:(unsigned int fpb, unsigned int time_us, unsigned char *ps)
+getprescalerx	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	34;"	p	line:34	file:	signature:( unsigned int fpb, unsigned int time_us, unsigned char *ps )
+i2cData	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	131;"	l	line:131
+i2cData	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	31;"	l	line:31
+i2c_init	C:\Users\M\Desktop\assignment1_3\lib\inc\i2c.h	60;"	p	line:60	signature:(unsigned int fpb, I2C_MODULE I2C_BUS)
+i2c_init	C:\Users\M\Desktop\assignment1_3\lib\src\i2c.c	22;"	f	line:22	signature:(unsigned int fpb, I2C_MODULE I2C_BUS)
+i2c_receiveonebyte	C:\Users\M\Desktop\assignment1_3\lib\inc\i2c.h	132;"	p	line:132	signature:(unsigned char *data, I2C_MODULE I2C_BUS, unsigned char AckNack)
+i2c_receiveonebyte	C:\Users\M\Desktop\assignment1_3\lib\src\i2c.c	92;"	f	line:92	signature:(unsigned char *data, I2C_MODULE I2C_BUS, unsigned char AckNack)
+i2c_starttransfer	C:\Users\M\Desktop\assignment1_3\lib\inc\i2c.h	93;"	p	line:93	signature:(unsigned char restart, I2C_MODULE I2C_BUS)
+i2c_starttransfer	C:\Users\M\Desktop\assignment1_3\lib\src\i2c.c	40;"	f	line:40	signature:(unsigned char restart, I2C_MODULE I2C_BUS)
+i2c_stoptransfer	C:\Users\M\Desktop\assignment1_3\lib\inc\i2c.h	162;"	p	line:162	signature:(I2C_MODULE I2C_BUS)
+i2c_stoptransfer	C:\Users\M\Desktop\assignment1_3\lib\src\i2c.c	124;"	f	line:124	signature:(I2C_MODULE I2C_BUS)
+i2c_transmitonebyte	C:\Users\M\Desktop\assignment1_3\lib\inc\i2c.h	124;"	p	line:124	signature:(unsigned char data, I2C_MODULE I2C_BUS)
+i2c_transmitonebyte	C:\Users\M\Desktop\assignment1_3\lib\src\i2c.c	71;"	f	line:71	signature:(unsigned char data,I2C_MODULE I2C_BUS)
+i2cbyte	C:\Users\M\Desktop\assignment1_3\lib\src\eeprom.c	37;"	l	line:37
+intro	C:\Users\M\Desktop\assignment1_3\src\testservo.c	11;"	v	line:11
+main	C:\Users\M\Desktop\assignment1_3\src\testservo.c	20;"	f	line:20
+oc_init	C:\Users\M\Desktop\assignment1_3\lib\inc\oc.h	47;"	p	line:47	signature:( unsigned int fpb, unsigned char number, unsigned char coupled_timer, unsigned int time_us, unsigned char mode, unsigned char int_onoff, unsigned char int_priority )
+oc_init	C:\Users\M\Desktop\assignment1_3\lib\src\oc.c	37;"	f	line:37	signature:( unsigned int fpb, unsigned char number, unsigned char coupled_timer, unsigned int time_us, unsigned char mode, unsigned char int_onoff, unsigned char int_priority)
+oc_set	C:\Users\M\Desktop\assignment1_3\lib\inc\oc.h	71;"	p	line:71	signature:( unsigned char number, unsigned int time_us )
+oc_set	C:\Users\M\Desktop\assignment1_3\lib\src\oc.c	194;"	f	line:194	signature:(unsigned char number, unsigned int time_us)
+prescaler1	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	23;"	v	line:23
+prescalerx	C:\Users\M\Desktop\assignment1_3\lib\src\oc.c	46;"	l	line:46
+prescalerx	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	25;"	v	line:25
+prompt	C:\Users\M\Desktop\assignment1_3\src\testservo.c	12;"	v	line:12
+ps1length	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	24;"	v	line:24
+psvalue	C:\Users\M\Desktop\assignment1_3\lib\src\oc.c	47;"	l	line:47
+psxlength	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	26;"	v	line:26
+pulse	C:\Users\M\Desktop\assignment1_3\lib\src\servo.c	29;"	l	line:29
+pwm_init	C:\Users\M\Desktop\assignment1_3\lib\inc\pwm.h	39;"	p	line:39	signature:( unsigned int fpb, unsigned char channel, unsigned int freq, unsigned int width_us )
+pwm_init	C:\Users\M\Desktop\assignment1_3\lib\src\pwm.c	32;"	f	line:32	signature:(unsigned int fpb, unsigned char channel, unsigned int freq, unsigned int width_us)
+pwm_setwidth	C:\Users\M\Desktop\assignment1_3\lib\inc\pwm.h	57;"	p	line:57	signature:( unsigned char channel, unsigned int width_us )
+pwm_setwidth	C:\Users\M\Desktop\assignment1_3\lib\src\pwm.c	49;"	f	line:49	signature:(unsigned char channel, unsigned int width_us)
+servo_OC1callback	C:\Users\M\Desktop\assignment1_3\lib\src\servo.c	11;"	f	line:11
+servo_T2callback	C:\Users\M\Desktop\assignment1_3\lib\src\servo.c	7;"	f	line:7
+servo_init	C:\Users\M\Desktop\assignment1_3\lib\inc\servo.h	16;"	p	line:16	signature:( unsigned int fpb, unsigned char channel, signed char angle )
+servo_init	C:\Users\M\Desktop\assignment1_3\lib\src\servo.c	27;"	f	line:27	signature:(unsigned int fpb, unsigned char channel, signed char angle)
+servo_setpos	C:\Users\M\Desktop\assignment1_3\lib\inc\servo.h	33;"	p	line:33	signature:( unsigned char channel, signed char angle )
+servo_setpos	C:\Users\M\Desktop\assignment1_3\lib\src\servo.c	52;"	f	line:52	signature:(unsigned char channel, signed char angle)
+setangle	C:\Users\M\Desktop\assignment1_3\src\testservo.c	14;"	v	line:14
+setcommandtext	C:\Users\M\Desktop\assignment1_3\src\testservo.c	19;"	v	line:19
+setmsg	C:\Users\M\Desktop\assignment1_3\src\testservo.c	16;"	v	line:16
+shell_getcommand	C:\Users\M\Desktop\assignment1_3\lib\inc\shell.h	30;"	p	line:30	signature:(unsigned char *command)
+shell_getcommand	C:\Users\M\Desktop\assignment1_3\lib\src\shell.c	43;"	f	line:43	signature:(unsigned char *command)
+shell_init	C:\Users\M\Desktop\assignment1_3\lib\inc\shell.h	14;"	p	line:14	signature:(unsigned int fpb)
+shell_init	C:\Users\M\Desktop\assignment1_3\lib\src\shell.c	22;"	f	line:22	signature:(unsigned int fpb)
+shell_sendmessage	C:\Users\M\Desktop\assignment1_3\lib\inc\shell.h	44;"	p	line:44	signature:(unsigned char *message)
+shell_sendmessage	C:\Users\M\Desktop\assignment1_3\lib\src\shell.c	86;"	f	line:86	signature:(unsigned char *message)
+status	C:\Users\M\Desktop\assignment1_3\lib\src\i2c.c	126;"	l	line:126
+status	C:\Users\M\Desktop\assignment1_3\lib\src\i2c.c	42;"	l	line:42
+temp	C:\Users\M\Desktop\assignment1_3\lib\src\shell.c	8;"	v	line:8
+tempmsg	C:\Users\M\Desktop\assignment1_3\src\testservo.c	18;"	v	line:18
+text	C:\Users\M\Desktop\assignment1_3\lib\src\shell.c	7;"	v	line:7
+timer_init	C:\Users\M\Desktop\assignment1_3\lib\inc\timer.h	40;"	p	line:40	signature:( unsigned int fpb, unsigned char channel, unsigned int time_us, unsigned char int_onoff, unsigned char int_priority )
+timer_init	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	45;"	f	line:45	signature:(unsigned int fpb, unsigned char channel,unsigned int time_us, unsigned char int_onoff, unsigned char int_priority)
+timer_register_OC1callback	C:\Users\M\Desktop\assignment1_3\lib\inc\oc.h	81;"	p	line:81	signature:(OC1callback ptr_OC1callback)
+timer_register_OC1callback	C:\Users\M\Desktop\assignment1_3\lib\src\oc.c	240;"	f	line:240	signature:(OC1callback ptr_OC1callback)
+timer_register_T2callback	C:\Users\M\Desktop\assignment1_3\lib\inc\timer.h	52;"	p	line:52	signature:(T2callback ptr_T2callback)
+timer_register_T2callback	C:\Users\M\Desktop\assignment1_3\lib\src\timer.c	206;"	f	line:206	signature:(T2callback ptr_T2callback)
+uart_init	C:\Users\M\Desktop\assignment1_3\lib\inc\uart.h	45;"	p	line:45	signature:( unsigned int fpb, unsigned char channel, unsigned int baudrate, unsigned char Ndatabits, unsigned char Nstopbits, unsigned char parity, unsigned char int_onoff, unsigned char int_priority )
+uart_init	C:\Users\M\Desktop\assignment1_3\lib\src\uart.c	65;"	f	line:65	signature:( unsigned int fpb, unsigned char channel, unsigned int baudrate, unsigned char Ndatabits, unsigned char Nstopbits, unsigned char parity, unsigned char int_onoff, unsigned char int_priority )
+uart_read	C:\Users\M\Desktop\assignment1_3\lib\inc\uart.h	100;"	p	line:100	signature:( unsigned char channel, unsigned char *data )
+uart_read	C:\Users\M\Desktop\assignment1_3\lib\src\uart.c	210;"	f	line:210	signature:(unsigned char channel, unsigned char *data)
+uart_sendchar	C:\Users\M\Desktop\assignment1_3\lib\inc\uart.h	67;"	p	line:67	signature:( unsigned char channel, unsigned char data )
+uart_sendchar	C:\Users\M\Desktop\assignment1_3\lib\src\uart.c	172;"	f	line:172	signature:(unsigned char channel, unsigned char data)
+uart_sendstring	C:\Users\M\Desktop\assignment1_3\lib\inc\uart.h	83;"	p	line:83	signature:( unsigned char channel, unsigned char data[] )
+uart_sendstring	C:\Users\M\Desktop\assignment1_3\lib\src\uart.c	198;"	f	line:198	signature:(unsigned char channel, unsigned char data[])
+width_us	C:\Users\M\Desktop\assignment1_3\lib\src\servo.c	31;"	l	line:31
+width_us	C:\Users\M\Desktop\assignment1_3\lib\src\servo.c	54;"	l	line:54
